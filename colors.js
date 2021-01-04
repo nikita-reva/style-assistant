@@ -63,7 +63,7 @@ function createFontELement(font) {
 	const fontBox = document.createElement('div')
 	fontBox.classList.add('font-box')
 	fontBox.innerHTML = `
-		<p style="font-family: inherit">This is the font '${font}'.</>
+		<p style="font-family: inherit">This font is called '${font}'.</>
 		<button class="copy"></button>
 		`
 	fontBox.style.fontFamily = `'${font}'`
