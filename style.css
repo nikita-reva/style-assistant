@@ -2,15 +2,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
 
 * {
 	box-sizing: border-box;
 }
 
+:root {
+	--text-color: #fff;
+	--title-color: #efa822;
+	--bg-color: #111;
+}
+
 body {
 	display: flex;
 	flex-wrap: wrap;
-	background: #111;
+	background: var(--bg-color);
 	padding: 10px;
 }
 
@@ -30,7 +37,7 @@ body {
 .wrapper h1 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: bolder;
-	color: #efa822;
+	color: var(--title-color);
 }
 
 .colors-container {
@@ -60,7 +67,7 @@ body {
 	margin: 2px 5px;
 	position: relative;
 	overflow: hidden;
-	color: #fff;
+	color: var(--text-color);
 }
 
 .copy {
