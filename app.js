@@ -29,7 +29,7 @@ colors = [
 	'#efa822',
 	'#e74c3c',
 ]
-fonts = ['Poppins', 'Muli', 'Roboto', 'Pirata One', 'Heebo']
+fonts = ['Poppins', 'Muli', 'Roboto', 'Pirata One', 'Heebo', 'Montserrat']
 
 colors.forEach((color) => {
 	createColorELement(color)
