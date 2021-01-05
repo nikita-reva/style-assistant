@@ -77,7 +77,7 @@ function createFontELement(font) {
 			`@import url('https://fonts.googleapis.com/css2?family=${font.replace(
 				' ',
 				'+'
-			)}ital,wght@0,400;1,400;&display=swap');`
+			)}:ital,wght@0,400;1,400;&display=swap');`
 		)
 		document.body.appendChild(inputElement)
 
