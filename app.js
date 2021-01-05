@@ -28,6 +28,7 @@ colors = [
 	'#8e8f89',
 	'#efa822',
 	'#e74c3c',
+	'#03a9f4',
 ]
 fonts = ['Poppins', 'Muli', 'Roboto', 'Pirata One', 'Heebo', 'Montserrat']
 
@@ -76,7 +77,7 @@ function createFontELement(font) {
 			`@import url('https://fonts.googleapis.com/css2?family=${font.replace(
 				' ',
 				'+'
-			)}&display=swap');`
+			)}ital,wght@0,400;1,400;&display=swap');`
 		)
 		document.body.appendChild(inputElement)
 
