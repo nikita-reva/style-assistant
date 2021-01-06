@@ -29,6 +29,10 @@ colors = [
 	'#efa822',
 	'#e74c3c',
 	'#03a9f4',
+	'#e22e49',
+	'#bec7d7',
+	'#eff2f7',
+	'#e1e6ec',
 ]
 fonts = ['Poppins', 'Muli', 'Roboto', 'Pirata One', 'Heebo', 'Montserrat']
 
