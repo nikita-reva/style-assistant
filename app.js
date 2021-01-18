@@ -110,6 +110,7 @@ fonts = [
 	'Arvo',
 	'Lobster',
 	'Indie Flower',
+	'Abril Fatface',
 ]
 
 gradients = [
