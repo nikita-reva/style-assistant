@@ -78,6 +78,11 @@ colors = [
 	'#55bdca',
 	'#96caef',
 	'#cafafe',
+	'#6568f4',
+	'#3acbf7',
+	'#425c5a',
+	'#a2bfbd',
+	'#ffcea2',
 ]
 fonts = [
 	'Poppins',
@@ -88,6 +93,23 @@ fonts = [
 	'Montserrat',
 	'Lato',
 	'Squada One',
+	'Oswald',
+	'Bodoni Moda',
+	'Merriweather',
+	'Ubuntu',
+	'Teko',
+	'Anton',
+	'Inter',
+	'Hind',
+	'Dosis',
+	'Dancing Script',
+	'Fjalla One',
+	'Varela Round',
+	'Comfortaa',
+	'Pacifico',
+	'Arvo',
+	'Lobster',
+	'Indie Flower',
 ]
 
 gradients = [
