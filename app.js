@@ -96,6 +96,7 @@ fonts = [
 	'Oswald',
 	'Bodoni Moda',
 	'Merriweather',
+	'Merriweather Sans',
 	'Ubuntu',
 	'Teko',
 	'Anton',
