@@ -83,6 +83,15 @@ colors = [
 	'#425c5a',
 	'#a2bfbd',
 	'#ffcea2',
+	'#418dff',
+	'#35cda7',
+	'#1f1f1f',
+	'#8d68fa',
+	'#ee7d76',
+	'#071d47',
+	'#4c79b5',
+	'#bba095',
+	'#ce7f48',
 ]
 fonts = [
 	'Poppins',
