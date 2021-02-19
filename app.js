@@ -121,6 +121,16 @@ fonts = [
 	'Lobster',
 	'Indie Flower',
 	'Abril Fatface',
+	'Fredoka One',
+	'Bree Serif',
+	'Signica',
+	'Domine',
+	'Exo',
+	'Righteous',
+	'Courgette',
+	'Russo One',
+	'Kaushan Script',
+	'Archivo Black',
 ]
 
 gradients = [
