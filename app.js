@@ -131,6 +131,7 @@ fonts = [
 	'Russo One',
 	'Kaushan Script',
 	'Archivo Black',
+	'Nunito',
 ]
 
 gradients = [
